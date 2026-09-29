@@ -1,0 +1,39 @@
+#container{
+width: 500px;
+height: 800px;
+border: 1px solid;
+}
+
+.banner{
+width: 300px;
+height: 100px;
+border: 1px solid;
+float: left;
+}
+
+.menu{
+width: 195px;
+height: 100px;
+border: 1px solid;
+float: left;
+}
+
+.animation{
+width: 500px;
+height: 200px;
+border: 1px solid;
+}
+
+.bar{
+width: 195px;
+height: 500px;
+border: 1px solid;
+float: left;
+}
+
+.body{
+width: 300px;
+height: 500px;
+border: 1px solid;
+float: left;
+}

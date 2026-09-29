@@ -1,0 +1,124 @@
+#container{
+width: 500px;
+height: 900px;
+border: 1px solid;
+box-shadow: 60px 70px solid;
+}
+
+body{ background-color: aqua;
+
+}
+
+
+
+.banner{
+width: 500px;
+height: 150px;
+border: 1px solid;
+}
+
+.banner .link{
+width: 98px;
+height: 150px;
+border: 1px double;
+float: left;
+}
+
+.slider{
+width: 500px;
+height: 300px;
+border: 1px solid;
+background-color: white;
+border-radius: 20px;
+
+}
+
+.slider .innerslider{
+width:400px ;
+height: 200px;
+border: 1px double;
+margin-left: 50px;
+margin-right: 50px;
+margin-top: 50px;
+margin-bottom: 50px;
+background-color: white;
+box-shadow: 3px 6px 9px;
+}
+.body{
+    width: 500px;
+height: 310px;
+border: 1px solid;
+}
+.body .innerbody1{
+    width: 98px;
+height: 310px;
+border: 1px solid;
+float: left;
+}
+.body .innerbody2{
+    width: 298px;
+height: 310px;
+border: 1px solid;
+float: left;
+}
+.body .innerbody3{
+    width: 98px;
+height: 310px;
+border: 1px solid;
+float: left;
+}
+.innerbody1 .innerc{
+     width: 94px;
+height: 96px;
+border: 1px solid;
+margin-top:4px ;
+margin-bottom: 4px;
+margin-left: 4px;
+margin-right: 4px;
+}
+.innerbody1 .innerp{
+     width: 94px;
+height: 96px;
+border: 1px solid;
+margin-top:4px ;
+margin-bottom: 4px;
+margin-left: 4px;
+margin-right: 4px;
+}
+.innerbody1 .innera{
+     width: 94px;
+height: 96px;
+border: 1px solid;
+margin-top:4px ;
+margin-bottom: 4px;
+margin-left: 4px;
+margin-right: 4px;
+}
+.innerbody3 .inners{
+     width: 94px;
+height: 96px;
+border: 1px solid;
+margin-top:4px ;
+margin-bottom: 4px;
+margin-left: 4px;
+margin-right: 4px;
+}
+.innerbody3 .innerk{
+     width: 94px;
+height: 96px;
+border: 1px solid;
+margin-top:4px ;
+margin-bottom: 4px;
+margin-left: 4px;
+margin-right: 4px;
+}
+.innerbody3 .innerq{
+     width: 94px;
+height: 96px;
+border: 1px solid;
+margin-top:4px ;
+margin-bottom: 4px;
+margin-left: 4px;
+margin-right: 4px;
+}
+
